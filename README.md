@@ -14,6 +14,10 @@
 - https://opengameart.org/
 - https://www.mixamo.com/#/ (animations)
 
+### Shaders
+
+- https://godotshaders.com/
+
 ### SFX
 
 - https://freesound.org/
